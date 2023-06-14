@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 00000)(type Legacy)(uri /home/myuser/projects/solar/boards/inverter/00000.lib)(options "")(descr ""))
+  (lib (name iv-tracer-rescue)(type Legacy)(uri ${KIPRJMOD}/iv-tracer-rescue.lib)(options "")(descr ""))
+)
